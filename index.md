@@ -1,1 +1,2 @@
-# hello world
+# practice
+I am a rookie.
